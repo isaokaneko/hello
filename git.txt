@@ -1,0 +1,4 @@
+指定のIDにもどる
+git log
+git reset --hart 09342w94r4wr9uj
+git pusu add origin
